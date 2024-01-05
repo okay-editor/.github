@@ -3,7 +3,7 @@
   width="27px">
   <br><br />
   <samp>
-    😆 欢迎来到okay-editor大本营🍉  🌱
+    🍉 欢迎来到okay-editor大本营 🌱
     <br />
   </samp>
 
